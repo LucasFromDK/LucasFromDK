@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasFromDK
 - 👀 I’m interested in Coding and Videogames.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning: Web Development!
 - 📫 How to reach me? Discord: <\TheLeafLion\>#0966
 
 <!---
