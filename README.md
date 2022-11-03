@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github.com/LucasFromDK/LucasFromDK/blob/main/Dancing%20Parrot.gif" width="300" height="300" /></p>
+
 - 👋 Hi, I’m @LucasFromDK
 - 👀 I’m interested in Coding and Videogames.
 - 🌱 I’m currently learning: Web Development!
