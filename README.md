@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋! My name is Lucas and I'm a Developer from Denmark</h1>
 <br clear="both">
 
+<h2 align="center">My GitHub Stats:</h2>
+
 ![LucasFromDK's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasFromDK&theme=radical&count_private=true)
 ![Most Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&theme=radical)
 
@@ -63,6 +65,10 @@
 </div>
 
 ###
+
+<h2 align="left">Some Programmer Humor:</h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 <h2 align="center">Profile Visits:</h2>
 
