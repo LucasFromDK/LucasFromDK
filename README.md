@@ -3,8 +3,10 @@
 
 <h2 align="center">My GitHub Stats:</h2>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFromDK&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
-</a><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&layout=compact&theme=radical&hide_border=true" /></a>
+<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasFromDK&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
+</a><a><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&layout=compact&theme=radical&hide_border=true" /></a>
+
+<br clear="both">
 
 <h3 align="center">I’m interested in Coding and Videogames.</h3>
 
@@ -66,10 +68,12 @@
 
 ###
 
-<h2 align="left">Some Programmer Humor:</h2>
+<h2 align="center">Some Programmer Humor:</h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<a><img align="right" width="100%" src="https://readme-jokes.vercel.app/api?theme=radical" /></a>
+###
 
+<br clear="both">
 <h2 align="center">Profile Visits:</h2>
 
 ###
@@ -77,5 +81,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/LucasFromDK/count.svg?"  />
 </div>
-
-###
