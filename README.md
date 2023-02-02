@@ -3,8 +3,8 @@
 
 <h2 align="center">My GitHub Stats:</h2>
 
-![LucasFromDK's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasFromDK&theme=radical&count_private=true)
-![Most Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&theme=radical)
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFromDK&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/>
+</a><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&layout=compact&theme=radical&hide_border=true" /></a>
 
 <h3 align="center">I’m interested in Coding and Videogames.</h3>
 
