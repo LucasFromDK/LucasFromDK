@@ -10,20 +10,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&username=undefined" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&username=undefined" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/undefined/undefined/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<h3 align="center">I have worked with:</h3>
+<h2 align="center">I have worked with:</h2>
 
 ###
 
@@ -43,7 +30,19 @@
 
 <br clear="both">
 
-<h3 align="center">Links the where you can find me:</h3>
+<h2 align="center">What am I learning?</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="center">I am currently learning JavaScript!</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Links the where you can find me:</h2>
 
 ###
 
@@ -71,12 +70,12 @@
 
 ###
 
-<h3 align="center">Unique Visitors:</h3>
+<h2 align="center">Profile Visits:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/undefined/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/LucasFromDK/count.svg?"  />
 </div>
 
 ###
