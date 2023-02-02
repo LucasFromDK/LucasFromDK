@@ -2,18 +2,15 @@
 <br clear="both">
 
 ![LucasFromDK's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasFromDK&theme=radical&count_private=true)
-###
 ![Most Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&theme=radical)
 
 <h3 align="center">I’m interested in Coding and Videogames.</h3>
 
-###
-
 <br clear="both">
 
-<h2 align="center">I have worked with:</h2>
-
 ###
+
+<h2 align="center">I have worked with:</h2>
 
 <br clear="both">
 
@@ -35,19 +32,15 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">I am currently learning JavaScript!</h4>
 
-###
-
 <br clear="both">
+
+###
 
 <h2 align="center">Links the where you can find me:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://discordapp.com/users/363341174250930178" target="_blank">
