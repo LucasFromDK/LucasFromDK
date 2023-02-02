@@ -1,8 +1,9 @@
 <h1 align="center">Hi👋! My name is Lucas and I'm a Developer from Denmark</h1>
-
-###
-
 <br clear="both">
+
+![LucasFromDK's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=LucasFromDK&theme=radical&count_private=true)
+###
+![Most Used Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&theme=radical)
 
 <h3 align="center">I’m interested in Coding and Videogames.</h3>
 
