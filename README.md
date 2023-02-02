@@ -6,7 +6,7 @@
 - 📫 How to reach me? Discord: <\TheLeafLion\>#0966 or Twitter: @LucasFromDK
 
 <a href="https://makers.appwrite.io/LucasFromDK">
-    <img src="https://appwrite.io/cards/makers/LucasFromDK" alt="LucasFromDK's Maker Card" />
+    <img src="https://appwrite.io/cards/makers/LucasFromDK" alt="LucasFromDK's Maker Card" width="250" height="150"/>
 </a>
 
 <!---
