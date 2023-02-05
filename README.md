@@ -3,7 +3,7 @@
 
 <h2 align="center">My GitHub Stats:</h2>
 
-<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasFromDK&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true"/>
+<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasFromDK&show_icons=true&include_all_commits=false&theme=radical&hide_border=true&count_private=true"/>
 </a><a><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFromDK&layout=compact&theme=radical&hide_border=true" /></a>
 
 <br clear="both">
