@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="center">I am currently learning JavaScript!</h4>
+<h4 align="center">I am currently learning C# and JavaScript!</h4>
 
 <br clear="both">
 
