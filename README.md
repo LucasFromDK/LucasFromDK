@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://x.com/LucasFromDK">
-    <img src="https://img.shields.io/static/v1?message=X (Twitter)&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo"/>
+    <img src="https://img.shields.io/badge/X (Twitter)-black?style=for-the-badge&logo=X&labelColor=black&link=https%3A%2F%2Fx.com%2FLucasFromDK" height="40" alt="X logo"/>
   </a>
   
   <a href="https://www.youtube.com/@LucasFromDK">
