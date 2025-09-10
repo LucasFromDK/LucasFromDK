@@ -82,14 +82,3 @@
 <h2 align="center">Some Programmer Humor:</h2>
 
 <a><img align="right" width="100%" src="https://readme-jokes.vercel.app/api?theme=radical" /></a>
-
-###
-
-<br clear="both">
-<h2 align="center">Profile Visits:</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LucasFromDK/count.svg?"  />
-</div>
